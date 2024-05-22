@@ -1,4 +1,4 @@
 matplotlib
 numpy
 pandas
-git+https://github.com/glemaitre/scikit-learn.git@cutoff_classifier_again
+scikit-learn==1.5
