@@ -1,4 +1,5 @@
 matplotlib
 numpy
+openpyxl
 pandas
 scikit-learn==1.5
